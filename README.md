@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ITA-WIKI](https://github.com/IT-Academy-BCN/ita-wiki)
 
-- 🌱 I’m currently learning **Python, GOlang**
+- 🌱 I’m currently learning **React, GOlang**
 
 - 📫 How to reach me **gonzalo.fourtane@gmail.com**
 
