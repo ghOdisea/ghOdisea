@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gonzalo</h1>
 <h3 align="center">A passionate Backend developer from Argentina currently living in Barcelona, Spain.</h3>
 
-- 🔭 I’m currently working on [ITA-WIKI](https://github.com/IT-Academy-BCN/ita-wiki)
-
 - 🌱 I’m currently learning **Angular, GOlang**
 
 - 📫 How to reach me **gonzalo.fourtane@gmail.com**
